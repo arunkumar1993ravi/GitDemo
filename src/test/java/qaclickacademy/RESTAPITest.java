@@ -12,6 +12,10 @@ public class RESTAPITest {
 	public void rest2()
 	{
 		System.out.println("rest2");
+		System.out.println("rest3");
+		System.out.println("rest4");
+		System.out.println("rest5");
+		
 	}
 
 }
