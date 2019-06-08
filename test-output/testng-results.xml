@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-31T06:16:27Z" name="Default suite" finished-at="2019-05-31T06:16:27Z" duration-ms="172">
+    <groups>
+    </groups>
+    <test started-at="2019-05-31T06:16:27Z" name="Default test" finished-at="2019-05-31T06:16:27Z" duration-ms="172">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="maven1()[pri:0, instance:qaclickacademy.AppiumTest@78047b92]" started-at="2019-05-31T06:16:27Z" name="maven1" finished-at="2019-05-31T06:16:27Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maven1 -->
+        <test-method signature="maven2()[pri:0, instance:qaclickacademy.AppiumTest@78047b92]" started-at="2019-05-31T06:16:27Z" name="maven2" finished-at="2019-05-31T06:16:27Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maven2 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method signature="rest1()[pri:0, instance:qaclickacademy.RESTAPITest@8909f18]" started-at="2019-05-31T06:16:27Z" name="rest1" finished-at="2019-05-31T06:16:27Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest1 -->
+        <test-method signature="rest2()[pri:0, instance:qaclickacademy.RESTAPITest@8909f18]" started-at="2019-05-31T06:16:27Z" name="rest2" finished-at="2019-05-31T06:16:27Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rest2 -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.seleniumTest">
+        <test-method signature="selenium1()[pri:0, instance:qaclickacademy.seleniumTest@79ca92b9]" started-at="2019-05-31T06:16:27Z" name="selenium1" finished-at="2019-05-31T06:16:27Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium1 -->
+        <test-method signature="selenium2()[pri:0, instance:qaclickacademy.seleniumTest@79ca92b9]" started-at="2019-05-31T06:16:27Z" name="selenium2" finished-at="2019-05-31T06:16:27Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium2 -->
+      </class> <!-- qaclickacademy.seleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
